@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "go": "yarn install; node ./generate_svidges.js"
+  },
+  "dependencies": {
+    "fontkit": "^1.8.1"
+  }
+}
